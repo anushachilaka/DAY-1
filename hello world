@@ -6,25 +6,11 @@ DAY 1
  {
    printf(“hello world”);
 }
-
 2.#include<stdio.h>
   void main()
 {
  printf(“ANUSHA”);
 }
-
-#include<stdio.h>
-include is the command to include something to it. And stdio  stands for the standard input and output, .h is extension of stdio.
-
- printf()
-It is used to print the statement in double quotes.printf() is function included in stdio.
-
- main()
-It is a function which is called by the user to  run the function.
-
-Touch typing is the most essential and basic part of computing. It not only saves our time but it actually makes us confident in typing.
-
-Firstly we must go in a slow pace in order to learn to type from basic typing without any spelling errors.
 
 
 
